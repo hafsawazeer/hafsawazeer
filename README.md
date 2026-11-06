@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey, I'm Hafsa 👋
+### Final-Year Information Systems Undergraduate | Aspiring Technical Business Analyst
 
-<!--
-**hafsawazeer/hafsawazeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year **Information Systems undergraduate at UCSC** interested in **Technical Business Analysis and technology-driven problem-solving**.
 
-Here are some ideas to get you started:
+I enjoy understanding business needs, analysing processes, gathering requirements, and translating them into practical technical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+
+**Business Analysis** `Requirements Elicitation` `Stakeholder Analysis` `BRD` `User Stories` `BPMN` `Process Modelling` `UAT`
+
+**Languages** `JavaScript` `PHP`  `SQL`
+
+**Web & Backend** `HTML` `CSS` `React` `Next.js` `REST APIs`
+
+**Tools** `Jira` `Confluence` `Lucidchart` `Figma`  `Git` `GitHub`
+
+---
+
+### 🚀 Projects
+
+- **InventoryPro** – Inventory & Finance Management System | Business Analysis · UAT
+- **360° Corporate Development Platform** – Industry Project | Requirements Analysis · Functional Specifications
+- **Nurture Nest** – Client Website | Next.js · React · Sanity
+- **FitVerse** – Fitness Management System | PHP · MySQL · JavaScript
+
+---
+
+### 🎯 Currently
+
+- Developing my Technical Business Analysis skills
+- Exploring data analysis and business intelligence
+- Learning more about system design, databases, and APIs
+
+---
+
+### 📫 Let's Connect
+
+**LinkedIn:** [linkedin.com/in/hafsa-wazeer](https://www.linkedin.com/in/hafsa-wazeer/)  
+**Email:** [hafsawazeer356@gmail.com](mailto:hafsawazeer356@gmail.com)
+
+*Bridging business needs and technology through meaningful solutions.*
